@@ -1,1 +1,1 @@
-# String-Merger-Into-File
+Merges the contents of two files into one file. Constantly inputs into data1.txt until user types "end". Now it inputs into data2.txt until user types "end". After that, will merge file contents into file called merge.txt. There will not be duplicates, only unique words.
